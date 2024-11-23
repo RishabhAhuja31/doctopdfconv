@@ -17,21 +17,8 @@ const convertAgainBtn = document.querySelector(".convert-again");
 // Accepted document types
 const documentTypes = [
   "pdf",
-  // "doc",
-  // "docx",
-  // "odt",
-  // "xls",
-  // "xlsx",
-  // "ppt",
-  // "pptx",
-  // "key",
-  // "numbers",
-  // "slides",
-  // "odt",
-  // "txt",
-  // "rtf",
-  // "jpeg",
-  // "png"
+  "doc",
+  "docx"
 ];
 
 // Append doc types to array for the tooltip data
